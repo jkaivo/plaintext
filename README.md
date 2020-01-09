@@ -1,0 +1,1 @@
+Inspired by https://no-color.org/
